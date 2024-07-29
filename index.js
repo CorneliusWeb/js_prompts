@@ -9,7 +9,8 @@ if (username === "Kareen") {
       if (message.match(regex)) {
          alert("Hi babbyyyy🥰🤗🥰");
       } else {
-         alert("Hi there!")
+         alert(`Umm! weird name. You're not my baby👿
+            Now get the fuck outa here!`);
       }
    } else if (pass === null || "") {
       alert("Cancelled");
